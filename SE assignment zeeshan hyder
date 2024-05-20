@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+
+// this is a simple java program in which we add and subtract two values 
+
 public class AdditionSubtraction {
     public static void main(String[] args) {
         // Create a Scanner object to read input from the user
